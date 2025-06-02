@@ -1,0 +1,2 @@
+class MCPConnectionError(Exception):
+    pass
