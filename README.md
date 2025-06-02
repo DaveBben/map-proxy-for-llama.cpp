@@ -117,7 +117,7 @@ A typical MCP configuration JSON file should resemble the following structure:
 This was a rapid weekend project, and as such, there are several areas for improvement:
 
 1. Only the `/v1/chat/completions` endpoint is currently supported.
-2. Only MCP tools are exposed to the LLM; no other tool types are supported.
+2. Only MCP tools are exposed to the LLM; no other types are supported.
 3. Streaming support is not yet implemented.
 
 ---
