@@ -20,7 +20,7 @@
 
 ## Overview
 
-I created this proxy to integrate my MCP server tools with Llama CPP. It works by discovering all available tools on the MCP server and presenting them as OpenAI-compatible tools for the LLM. When the LLM requests a tool, this proxy intercepts the call and invokes the appropriate MCP tool.
+I created this proxy to integrate my MCP server tools with `llama.cpp`. It works by discovering all available tools on the MCP server and presenting them as OpenAI-compatible tools for the LLM. When the LLM requests a tool, this proxy intercepts the call and invokes the appropriate MCP tool.
 
 ---
 
