@@ -80,7 +80,7 @@ A typical MCP configuration JSON file should resemble the following structure:
                 "voska/hass-mcp"
             ],
             "env": {
-                "HA_URL": "[http://192.168.1.49:8123](http://192.168.1.49:8123)",
+                "HA_URL": "http://192.168.1.49:8123",
                 "HA_TOKEN": "abcde"
             }
         },
