@@ -1,22 +1,7 @@
-# MCP Proxy for Llama CPP Server
+# MCP Proxy for Llama.cpp Server
 
 ---
 
-## Table of Contents
-
-- [MCP Proxy for Llama CPP Server](#mcp-proxy-for-llama-cpp-server)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Setup \& Installation](#setup--installation)
-  - [Usage](#usage)
-    - [Options](#options)
-  - [MCP Config JSON](#mcp-config-json)
-  - [Limitations](#limitations)
-  - [Contributions](#contributions)
-  - [License](#license)
-
----
 
 ## Overview
 
