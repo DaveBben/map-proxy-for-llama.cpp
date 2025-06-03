@@ -27,8 +27,8 @@ This project uses `uv` for dependency management.
     ```
 2.  **Clone the repository**:
     ```bash
-    git clone <your-repository-url> # Replace with your actual repository URL
-    cd <your-repository-name>       # Replace with your actual repository name
+    git clone https://github.com/DaveBben/mcp-proxy-for-llama.cpp
+    cd https://github.com/DaveBben/mcp-proxy-for-llama.cpp
     ```
 3.  **Install dependencies and activate the virtual environment**:
     ```bash
